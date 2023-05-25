@@ -1,2 +1,3 @@
 # Personal-portfolio
-My per portfolio
+My personal portfolio
+Updates will be coming soon 
